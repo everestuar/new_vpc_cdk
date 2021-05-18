@@ -19,7 +19,7 @@ setuptools.setup(
     packages=setuptools.find_packages(where="apache_new_vpc_cdk"),
 
     install_requires=[
-        "aws-cdk.core==1.102.0",
+        "aws-cdk.core==1.92.0",
     ],
 
     python_requires=">=3.6",

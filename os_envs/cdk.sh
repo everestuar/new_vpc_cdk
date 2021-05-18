@@ -1,0 +1,2 @@
+export DEFAULT_ACCOUNT=856379576583
+export DEFAULT_REGION='us-east-1'
